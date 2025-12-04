@@ -4,7 +4,7 @@
 
 ## ⭐ Hi, I'm dywoq, a programmer-cube! 
 
-Rustacean working on a hobby operating system from scratch (UEFI -> Kernel -> Userspace).
+Rustacean working on a hobby operating system from scratch (UEFI Bootloader -> Kernel -> Userspace (user sdk is written in c actually lol)).
 Everything is written in 100% safe Rust where possible.
 
 If I need something fast and simple, I reach for Go - especially in CLI tools and anything that talks to the outside world.
