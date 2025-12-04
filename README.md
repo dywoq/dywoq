@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/avatar.jpg" alt="img">
+  <img src="assets/avatar.jpg" alt="img" width="400">
 </p>
 
 ## ⭐ Hi, I'm dywoq, a programmer-cube! 
