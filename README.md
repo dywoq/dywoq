@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/avatar.jpg" alt="img">
+</p>
+
 ## ⭐ Hi, I'm dywoq, a programmer-cube! 
 
 Rustacean working on a hobby operating system from scratch (UEFI -> Kernel -> Userspace).
