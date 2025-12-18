@@ -5,8 +5,8 @@
 ## ⭐ Hi, I'm dywoq, a programmer-cube! 
 
 My BEST languages:
-- C++: When the full power is required to win.
-- Golang: For CLI tools, inteprreters and others that need simple but fast code!
+- C++/C/Rust: For system programming
+- Golang: For CLI tools, inteprreters and others that need simple but fast code.
 
 ## Contacts
 - My telegram channel, you can contact me in direct messages!: https://t.me/dywoq
