@@ -9,5 +9,5 @@ My BEST languages:
 - Golang: For CLI tools, inteprreters and others that need simple but fast code.
 
 ## Contacts
-- My telegram channel, you can contact me in direct messages!: https://t.me/dywoq
-- YouTube channel, usually videos about programming: https://youtube.com/dywoq
+- My telegram channel: https://t.me/dywoq
+- YouTube channel: https://youtube.com/dywoq
